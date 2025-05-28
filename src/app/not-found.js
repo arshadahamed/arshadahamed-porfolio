@@ -23,7 +23,7 @@ export default function NotFound() {
                     Go Home <i><RiDownloadLine size={16} /></i>
                   </Link>
                 </div>
-                <div class="container">
+                {/* <div class="container404">
                 <div class="error404page">
                     <div class="newcharacter404">
                         <div class="chair404"></div>
@@ -41,7 +41,7 @@ export default function NotFound() {
                         <div class="laptop404"></div>
                     </div>
                 </div>
-                </div>
+                </div> */}
               </div>
             </SlideUp>
           </div>

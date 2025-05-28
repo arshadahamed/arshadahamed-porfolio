@@ -3063,8 +3063,8 @@ ul.blog_pagination li a:hover {
     border: 1px solid var(--border-color);
 }
 
-///////////////////////////
-.container {
+
+/* .container404 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -3394,4 +3394,4 @@ $swayspeed: 20s;
     100% {
         transform: translateX(-2px);
     }
-}
+} */
