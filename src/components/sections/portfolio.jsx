@@ -55,7 +55,7 @@ const Portfolio = ({ className }) => {
                         </ul>
                     </SlideUp>
                     <div className="row project-masonry-active overflow-hidden">
-                        {filteredProjects.map(({ category, id, src, title }) => <Card key={id} id={id} category={category} src={src} title={title} animationClass={animationClass} />)}
+                        {filteredProjects.map(({ category, id, src, title, link }) => <Card key={id} id={id} category={category} src={src} title={title} link={link} animationClass={animationClass} />)}
 
                     </div>
                 </div>
@@ -67,10 +67,10 @@ const Portfolio = ({ className }) => {
 export default Portfolio
 
 
-const Card = ({ category, title, src, animationClass, id }) => {
+const Card = ({ category, title, src, animationClass, id, link }) => {
     const externalCategories = ["Logo Design", "Branding", "Social Media Post Design"];
     const isExternal = externalCategories.includes(category);
-    const href = isExternal ? "https://www.facebook.com/CreativeOfArshaD" : "/bigbazaar";
+    const href = link;
 
     return (
         <div className={`col-lg-4 col-md-6 item branding game ${animationClass}`}>
@@ -104,3 +104,4 @@ const Card = ({ category, title, src, animationClass, id }) => {
         </div>
     );
 };
+
