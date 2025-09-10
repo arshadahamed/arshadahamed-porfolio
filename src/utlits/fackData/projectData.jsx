@@ -69,4 +69,11 @@ export const projectsData = [
         title: "TechFusionsLab.com - Logo Design",
         link: "https://www.facebook.com/CreativeOfArshaD"
     },
+    {
+        id: 11,
+        src: "/images/projects/work1-Modern.jpg",
+        category: "Website Design",
+        title: "MODERN TRADING SERVICE - UK",
+        link: "/projects/modern"
+    }
 ]
