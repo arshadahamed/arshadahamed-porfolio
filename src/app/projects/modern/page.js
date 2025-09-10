@@ -18,7 +18,7 @@ const Modern = () => {
                     height={1072} 
                     sizes="100vw" 
                     style={{ width: "100%", height: "auto" }} 
-                    src="/images/projects/modern/modern-1.jpg" 
+                    src="/images/projects/Modern/modern-1.jpg" 
                     alt="Modern Trading Service" 
                 />
             </div>
@@ -101,7 +101,7 @@ const Modern = () => {
                                 height={679} 
                                 sizes="100%" 
                                 style={{ width: "100%", height: "auto" }} 
-                                src="/images/projects/modern/modern-2.jpg" 
+                                src="/images/projects/Modern/modern-2.jpg" 
                                 alt="Modern Trading Service Screenshot 1" 
                             />
                         </div>
@@ -113,7 +113,7 @@ const Modern = () => {
                                 height={679} 
                                 sizes="100%" 
                                 style={{ width: "100%", height: "auto" }} 
-                                src="/images/projects/modern/modern-3.jpg" 
+                                src="/images/projects/Modern/modern-3.jpg" 
                                 alt="Modern Trading Service Screenshot 2" 
                             />
                         </div>
