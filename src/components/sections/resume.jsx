@@ -27,7 +27,7 @@ const Resume = () => {
                             <div className="experience-list">
                                 <div className="single-resume">
                                     <h2>Education</h2>
-                                    <Card year={'2023 - 2024'} title={'Bachelor Degree of Computer Science'} institution={'University Of StaffordShire, UK.'} />
+                                    <Card year={'2023 - 2024'} title={'Bachelor Degree of Computer Science'} institution={'2nd Upper Division at University Of StaffordShire, UK.'} />
                                     <Card year={'2019 - 2023'} title={'HND In Artificial Intelligence'} institution={'Pearson, UK.'} />
                                     <Card year={'2016 - 2017'} title={'Agriculture Sales Technician Programme'} institution={'Department Of Agriculture, Sri Lanka.'} />
                                     <Card year={'2014 - 2015'} title={'DIPLOMA IN CAD AND BS'} institution={'Pearson, UK.'} />
