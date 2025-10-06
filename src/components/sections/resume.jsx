@@ -13,9 +13,10 @@ const Resume = () => {
                             <div className="single-resume">
                                 <h2>Experience</h2>
                                 <div className="experience-list">
-                                    <Card year={'2024 - Present'} title={'Freelancing'} institution={'TechFusionsLab'} />
-                                    <Card year={'2013 - 2025'} title={'TECHNICAL SUPPORT SPECIALIST'} institution={'HelloTel Lanka (Private) Limited'} />
-                                    <Card year={'2021 - 2023'} title={'MANAGER'} institution={'M.K.C. TRADE CENTER'} />
+                                    <Card year={'2024 - Present'} title={'WEB DEVELOPER (PHP/.NET)'} institution={'Tech Fusions Lab'} />
+                                    <Card year={'2019 - Present'} title={'FREELANCER WEB DEVELOPER'} institution={'VueJS , Angular , TailwindCSS'} />
+                                    <Card year={'2019 - Present'} title={'FREELANCER GRAPHIC DESIGNER'} institution={'Adobe Photoshop , Adobe Illustrator , Adobe After Effects'} />
+                                    <Card year={'2014 - 2017'} title={'TECHNICAL SUPPORT SPECIALIST'} institution={'HelloTel Lanka (Private) Limited'} />
                                     
                                 </div>
                             </div>
