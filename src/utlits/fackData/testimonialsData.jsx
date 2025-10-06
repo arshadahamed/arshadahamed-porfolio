@@ -24,9 +24,16 @@ export const testimonialsData = [
     {
         id: 4,
         name: "Mohammed",
-        position: "Managewr, The Mug Mania",
+        position: "Manager, The Mug Mania",
         src: "/images/testimonials/author2.jpg",
         review: "Arshad's design skills are exceptional. He has a unique ability to take complex ideas and present them in a visually appealing way. Our team has benefited greatly from his expertise."
+    },
+    {
+        id: 5,
+        name: "HM Munfais Mohamed",
+        position: "Director, Pluto Consultancy, UK",
+        src: "/images/testimonials/author2.jpg",
+        review: "Arshad delivered a professional, responsive, and modern website for Pluto Consultancy, UK. His technical expertise, clear communication, and attention to detail ensured a smooth development and deployment process. We highly recommend him for reliable and high-quality web solutions."
     },
 
 ]
