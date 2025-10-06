@@ -1,14 +1,14 @@
 import Image from 'next/image'
 import React from 'react'
 
-const Modern = () => {
+const Pluto = () => {
     return (
         <div className="single-project-page-design">
             <div className="container">
                 <div className="row">
                     <div className="col-lg-12 text-center pb-30">
                         <p>Web Application</p>
-                        <h1>Modern Trading and Services - UK</h1>
+                        <h1>Pluto Consultancy - UK</h1>
                     </div>
                 </div>
             </div>
@@ -18,8 +18,8 @@ const Modern = () => {
                     height={1072} 
                     sizes="100vw" 
                     style={{ width: "100%", height: "auto" }} 
-                    src="/images/projects/Modern/modern-1.jpg" 
-                    alt="Modern Trading Service" 
+                    src="/images/projects/Pluto/pluto-1.jpg" 
+                    alt="Pluto Consultancy" 
                 />
             </div>
             <div className="container pt-30">
@@ -32,11 +32,11 @@ const Modern = () => {
                             </div>
                             <div className="single-info">
                                 <p>Client</p>
-                                <h3>Pluto Consultation - UK</h3>
+                                <h3>Pluto Consultancy - UK</h3>
                             </div>
                             <div className="single-info">
                                 <p>Services</p>
-                                <h3>Web Application - Accounting Platform</h3>
+                                <h3>Web Application - Accounting Portfolio</h3>
                             </div>
                             <div className="single-info">
                                 <p>Project</p>
@@ -49,7 +49,7 @@ const Modern = () => {
                         <div className="single-project-page-right wow fadeInUp delay-0-4s">
                             <h2>Description</h2>
                             <p>
-                                <strong>Modern Trading Service LLP</strong> is an accounting and consulting 
+                                <strong>Pluto Consultancy</strong> is an accounting and consulting 
                                 company based in Harrow, London, UK. We specialize in delivering 
                                 professional accounting, bookkeeping, tax advisory, and business consulting 
                                 solutions tailored for startups, SMEs, and growing enterprises.
@@ -101,8 +101,8 @@ const Modern = () => {
                                 height={679} 
                                 sizes="100%" 
                                 style={{ width: "100%", height: "auto" }} 
-                                src="/images/projects/Modern/modern-2.jpg" 
-                                alt="Modern Trading Service Screenshot 1" 
+                                src="/images/projects/Pluto/pluto-2.jpg" 
+                                alt="Pluto Consultancy Screenshot 1" 
                             />
                         </div>
                     </div>
@@ -113,8 +113,8 @@ const Modern = () => {
                                 height={679} 
                                 sizes="100%" 
                                 style={{ width: "100%", height: "auto" }} 
-                                src="/images/projects/Modern/modern-3.jpg" 
-                                alt="Modern Trading Service Screenshot 2" 
+                                src="/images/projects/Pluto/pluto-3.jpg" 
+                                alt="Pluto Consultancy Screenshot 2" 
                             />
                         </div>
                     </div>                
@@ -124,4 +124,4 @@ const Modern = () => {
     )
 }
 
-export default Modern
+export default Pluto

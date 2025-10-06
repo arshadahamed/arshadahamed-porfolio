@@ -71,9 +71,9 @@ export const projectsData = [
     },
     {
         id: 11,
-        src: "/images/projects/work1-Modern.jpg",
+        src: "/images/projects/work1-Pluto.jpg",
         category: "Website Design",
-        title: "MODERN TRADING SERVICE - UK",
-        link: "/projects/modern"
+        title: "PLUTO CONSULTANCY - UK",
+        link: "/projects/pluto"
     }
 ]
